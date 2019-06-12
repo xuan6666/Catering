@@ -49,6 +49,10 @@
       <Project>{f4b0554e-f686-41b7-962a-b64a1a54c106}</Project>
       <Name>DAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Log4\Log4.csproj">
+      <Project>{9e7e3feb-bfb2-438a-b37e-0d69d1c752db}</Project>
+      <Name>Log4</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Model\Model.csproj">
       <Project>{476de3f5-02b3-40f1-a291-483831737dce}</Project>
       <Name>Model</Name>
