@@ -1,0 +1,15 @@
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\DAL.dll.config
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\DAL.dll
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\DAL.pdb
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\EntityFramework.dll
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\Model.dll
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\Model.pdb
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\EntityFramework.xml
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\项目\WebApi.OnlineOrdering\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\项目\WebApi.OnlineOrdering\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\项目\WebApi.OnlineOrdering\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\项目\WebApi.OnlineOrdering\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\项目\WebApi.OnlineOrdering\DAL\obj\Debug\DAL.dll
+F:\项目\WebApi.OnlineOrdering\DAL\obj\Debug\DAL.pdb

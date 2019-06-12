@@ -1,0 +1,5 @@
+F:\项目\WebApi.OnlineOrdering\Model\bin\Debug\Model.dll
+F:\项目\WebApi.OnlineOrdering\Model\bin\Debug\Model.pdb
+F:\项目\WebApi.OnlineOrdering\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\项目\WebApi.OnlineOrdering\Model\obj\Debug\Model.dll
+F:\项目\WebApi.OnlineOrdering\Model\obj\Debug\Model.pdb
